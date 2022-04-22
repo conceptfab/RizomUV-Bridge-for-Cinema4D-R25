@@ -1,4 +1,4 @@
-# RizomUV Bridge for Cinema4D R25, 26
+# RizomUV Bridge for Cinema4D R25, R26
 
 ### Installation:
 
